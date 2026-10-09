@@ -5978,6 +5978,21 @@ publications:
     artifacts:
       "Paper": "https://hpi.de/fileadmin/user_upload/90_Research_Groups/rabl/Documents/papers/2026/Taha_Tekdogan_TPCTC.pdf"
 
+    - id: "schielicke2026hbm"
+    title: "Characterising CPU-initiated High Bandwidth Memory Access"
+    authors:
+      - "Clemens Schielicke"
+      - "Marcel Weisgut"
+      - "Tilmann Rabl"
+    venue: "Datenbank-Spektrum"
+    year: 2026
+    type: "Journal Paper"
+    abstract: ""
+    doi: ""
+    bibtex: ""
+    artifacts:
+      "Paper": "https://doi.org/10.1007/s13222-026-00563-7"
+  
   - id: "hackenberg2026shadix"
     title: "Shadix: A Distributed Message Broker Leveraging Shared Disaggregated CXL Memory"
     authors:
