@@ -6009,6 +6009,7 @@ publications:
     bibtex: ""
     artifacts:
       "Paper": "https://hpi.de/fileadmin/user_upload/90_Research_Groups/rabl/Documents/papers/2026/dimes26shadix.pdf"
+      "Slides": "https://hpi.de/fileadmin/user_upload/90_Research_Groups/rabl/Documents/papers/2026/dimes26shadix-slides.pdf"
 
   - id: "weisgut2025cxlperformance"
     title: "CXL Memory Performance for In-Memory Data Processing"
